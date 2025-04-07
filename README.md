@@ -52,7 +52,8 @@ def calculate_average(a: float, b: float) -> float:
 
 ### Dodatne Upute
 
-- Nemojte mijenjati druge dijelove aplikacije. Ako Vaša implementacija ne radi, prilagodite svoje rješenje aplikaciji, a ne obrnuto.
+-  Kao rješenje **DODAJTE** Vaš kod ispod #TODO komentara. Ostatak ne treba mijenjati niti prilagođavati. Ako Vaše rješenje ne radi, onda ga prilagodite aplikaciji, ali **NE** aplikaciju Vašem rješenju. Dakle, ako nakon promjena aplikacija ne radi, niste dobro napravili implementaciju.
+-  **Rješenja koja imaju mijenjan ostatak koda neće biti ocijenjena.**
 - Uporabite `TypeHints` prema uputama u komentarima kako biste osigurali konzistentnost tipova podataka.
 
 ## Podnošenje Rješenja
