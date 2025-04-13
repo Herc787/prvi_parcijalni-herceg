@@ -48,5 +48,15 @@
         "name": "Bright Ideas",
         "email": "info@brightideas.com",
         "vat_id": "90123456789"
+    },
+    {
+        "name": "Isus GmbH",
+        "email": "info@isusgmbh.de",
+        "vat_id": "151518185"
+    },
+    {
+        "name": "Jos jedan testni kupac D.o.o",
+        "email": "test@tesntikupac.hr",
+        "vat_id": "158148512"
     }
 ]
